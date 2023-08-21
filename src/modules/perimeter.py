@@ -1,6 +1,6 @@
 
 def perimeter_func(arr):
-    suma = 0
+    summa = 0
     for storona in arr:
         summa += storona
-    return suma
+    return summa
