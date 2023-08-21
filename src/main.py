@@ -1,5 +1,7 @@
 import modules.perimeter as perimeter
 import modules.factorial as factorial
+import modules.test as t
+import modules.tests.test_all as ta
 
 f1 = factorial.factorial_norm(5)
 print(f1)
